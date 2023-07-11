@@ -21,9 +21,6 @@
 title: Joel Olsson's blog
 description: >- # this means to ignore newlines until "baseurl:"
  A testing ground for bad ideas.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "joel1st/Joel-Olsson"
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
